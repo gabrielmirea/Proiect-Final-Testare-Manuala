@@ -8,9 +8,10 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below stories **(GMT-44 Comparare produse, GMT-45 Elemente din psrtea inferioara a paginii, ) were created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below stories (GMT-44 Comparare produse, GMT-45 Elemente din partea inferioara a paginii, GMT-62 Conectare utilizator cu e-mail si parola) were created in Jira and describes the functional specifications of these modules, for which the final project is performed upon.
 
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
+
 
 Here you can find the release that was created for this project:
 
