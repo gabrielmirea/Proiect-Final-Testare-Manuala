@@ -46,7 +46,7 @@ The Test Plan is designed to describe all details of testing for the following m
 <li> Assignment of roles and responsibilities </li> 
 <li> Identification of project risks </li> 
 <li> Establishing deadlines </li>
-<li> Definiion of testing objectives</li>
+<li> Definition of testing objectives</li>
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
