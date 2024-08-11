@@ -129,7 +129,8 @@ Test cases are executed on the created test Cycle summary: Magazin apicol
 Bugs have been created based on the failed tests. The complete bug reports can be found here: (https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/Bugs%20report.doc)
 
 The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+![image](https://github.com/user-attachments/assets/acb310b5-21d1-456d-9702-6e479790a52c)
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
