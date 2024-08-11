@@ -23,8 +23,11 @@ The test process was performed based on the standard test process as described b
 
 <h3>1.1 Test planning</h3>
 
-The Test Plan is designed to describe all details of testing for the following modules from the www.magazinulapicultorului.ro application.
+The Test Plan is designed to describe all details of testing for the following modules from the www.magazinulapicultorului.ro application:
 
+<li>Comparare produse</li>
+<li>Elemente din partea inferioara a paginii</li>
+<li>Conectare utilizator cu e-mail si parola</li>
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
