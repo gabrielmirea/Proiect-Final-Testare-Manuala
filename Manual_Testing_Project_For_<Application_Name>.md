@@ -48,9 +48,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 <li> Identification of project risks </li> 
 <li> Establishing deadlines </li>
 <li> Definiion of testing objectives</li>
+
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+<li> Compliance with deadlines </h4>
+Running at least 90% of the tests
+Completion of test documentation 
+Identification and mitigation of product risks
+Completing the documentation of defects and their transmission
 
 <h4> 1.1.4 Test scope</h4>
 
