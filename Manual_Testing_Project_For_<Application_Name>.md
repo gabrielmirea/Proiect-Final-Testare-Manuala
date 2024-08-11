@@ -16,10 +16,10 @@ Links to the stories files:
 <br>
 (https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/Story%20GMT-45.doc)
 <br>
-
+(https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/Story%20GMT-62.doc)
 <br>
-![image](https://github.com/user-attachments/assets/b1d355f8-7b9b-47f9-af4f-49777f6a44d4), ![image](https://github.com/user-attachments/assets/57a9f450-3604-4c55-a34f-346e80d543fd), 
-![image](https://github.com/user-attachments/assets/a5420e29-1701-49e9-aa22-f1b69f5d00e4)
+[image](https://github.com/user-attachments/assets/b1d355f8-7b9b-47f9-af4f-49777f6a44d4), [image](https://github.com/user-attachments/assets/57a9f450-3604-4c55-a34f-346e80d543fd), 
+[image](https://github.com/user-attachments/assets/a5420e29-1701-49e9-aa22-f1b69f5d00e4)
 
 Here you can find the release that was created for this project:
 
