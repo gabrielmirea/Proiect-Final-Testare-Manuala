@@ -60,7 +60,9 @@ The Test Plan is designed to describe all details of testing for the following m
 
 <h5> Tests in scope: </h5>
 
-<li>Log-in user test</li>
+<li>Blackbox testing</li>
+<li>Positive and negative testing</li>
+<li></li>
 <li>Comparison product test</li>
 <li>links at the bottom of the page test</li>
 
