@@ -74,7 +74,8 @@ The Test Plan is designed to describe all details of testing for the following m
 
 <h5>Project risks:</h5>
 
-
+<li> There are not enough members in the test team for a performance test </li>
+<li> Deadline too short </li>
 
 <h5> Product risks: </h5>
 
