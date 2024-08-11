@@ -59,7 +59,7 @@ The Test Plan is designed to describe all details of testing for the following m
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
-
+<li>Functional testing</li>
 <li>Blackbox testing</li>
 <li>Positive and negative testing</li>
 <li>Log-in user test</li>
