@@ -14,7 +14,8 @@ The below stories (GMT-44 Comparare produse, GMT-45 Elemente din partea inferioa
 
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![image](https://github.com/user-attachments/assets/66d6ae58-21f2-4d9d-bda7-9bada4a09432)
+
 
 <h2>Testing process</h2>
 
