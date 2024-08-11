@@ -64,7 +64,7 @@ The Test Plan is designed to describe all details of testing for the following m
 <li>Positive and negative testing</li>
 <li>Log-in user test</li>
 <li>Comparison product test</li>
-<li>links at the bottom of the page test</li>
+<li>Links at the bottom of the page test</li>
 
   <h5>Tests not in scope: </h5>
 
