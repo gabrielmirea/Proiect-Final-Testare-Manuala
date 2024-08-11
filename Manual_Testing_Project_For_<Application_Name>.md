@@ -40,7 +40,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+Assignment of roles and responsibilities 
+Identification of project risks
+Establishing deadlines
+Definition of testing objectives
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
