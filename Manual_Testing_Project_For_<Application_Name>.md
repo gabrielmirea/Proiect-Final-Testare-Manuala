@@ -155,5 +155,6 @@ Within this epic, we have identified the following product risks:
 1. The inability to pay by card may lead to the user avoiding this site
 2. Comparing products from different categories can be confusing
    <br>
-   The bugs found do not impact the launch of the product in production or can be fixed later
+   <br>
+The bugs found do not impact the launch of the product in production or can be fixed later
 
