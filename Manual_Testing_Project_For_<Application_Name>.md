@@ -43,6 +43,8 @@ The Test Plan is designed to describe all details of testing for the following m
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
+<li> Testing environment is up and running</li>
+<li> Smoke test passed</li>
 <li> Assignment of roles and responsibilities </li> 
 <li> Identification of project risks </li> 
 <li> Establishing deadlines </li>
