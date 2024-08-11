@@ -51,8 +51,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-<li> Compliance with deadlines </h4>
-Running at least 90% of the tests
+<li> Compliance with deadlines
+<li> Running at least 90% of the tests
 Completion of test documentation 
 Identification and mitigation of product risks
 Completing the documentation of defects and their transmission
