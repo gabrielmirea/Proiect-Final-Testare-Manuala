@@ -12,10 +12,9 @@ The below stories (GMT-44 Comparare produse, GMT-45 Elemente din partea inferioa
 <br>
 Links to the stories files:
 <br>
-[
-](https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/Story%20GMT-44.doc)
+(https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/Story%20GMT-44.doc)
 <br>
-
+(https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/Story%20GMT-45.doc)
 <br>
 
 <br>
