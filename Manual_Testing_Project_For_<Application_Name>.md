@@ -31,10 +31,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Project manager Popescu Ion</li> 
+  <li>Product owner Ionescu Ion</li>
+  <li>Software developer Georgescu Ion</li>
+  <li>QA Engineer Enachescu Ion</li>
+  <li>QA Tester Mirea Gabriel</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
