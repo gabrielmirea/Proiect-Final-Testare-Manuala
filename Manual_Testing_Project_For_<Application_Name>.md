@@ -148,13 +148,15 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 6 tests have failed of a total of 12
 <br>
+<br>
 A number of 6 total bugs were found, from which the priority is: 1 is medium and 5 are low
+<br>
 <br>
 Within this epic, we have identified the following product risks:
 <br>
-1. The inability to pay by card may lead to the user avoiding this site
-2. Comparing products from different categories can be confusing
-   <br>
-   <br>
+<li> The inability to pay by card may lead to the user avoiding this site</li>
+<li> Comparing products from different categories can be confusing</li>
+<br>
+<br>
 The bugs found do not impact the launch of the product in production or can be fixed later
 
