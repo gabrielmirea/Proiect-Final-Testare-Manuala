@@ -74,7 +74,7 @@ The Test Plan is designed to describe all details of testing for the following m
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+
 
 <h5> Product risks: </h5>
 
