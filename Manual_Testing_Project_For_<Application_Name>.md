@@ -112,7 +112,9 @@ https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/ZFJ-issu
 
 The following elements are needed to be ready before the test execution phase begins:
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+<li> Smoke test has been passed </li>
+<li> The test environment is ready </li>
+<li> The test data is ready</li>
 
 <h3>1.6. Test Execution </h3>
 
