@@ -51,11 +51,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-<li> Compliance with deadlines
-<li> Running at least 90% of the tests
-<li> Completion of test documentation 
-<li> Identification and mitigation of product risks
-<li> Completing the documentation of defects and their transmission
+<li> Compliance with deadlines </li> 
+<li> Running at least 90% of the tests </li> 
+<li> Completion of test documentation </li> 
+<li> Identification and mitigation of product risks </li> 
+<li> Completing the documentation of defects and their transmission </li> 
 
 <h4> 1.1.4 Test scope</h4>
 
