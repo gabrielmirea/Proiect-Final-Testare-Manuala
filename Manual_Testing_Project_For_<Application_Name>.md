@@ -146,7 +146,7 @@ Test execution chart was generated and can be found below.
 ![image](https://github.com/user-attachments/assets/2fc8de22-d871-4046-88d8-5a16fa34e6aa)
 
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
+The final report shows that a number 6 tests have failed of a total of 12
 
 A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
 
