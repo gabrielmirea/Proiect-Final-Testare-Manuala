@@ -106,6 +106,7 @@ The following test conditions were found: <br>
 <h3>1.4 Test Design</h3>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here 
+https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/ZFJ-issue-export-08-11-2024-60b8da7ffffe297-0001.xlsx
 
 <h3>1.5 Test Implementation</h3>
 
