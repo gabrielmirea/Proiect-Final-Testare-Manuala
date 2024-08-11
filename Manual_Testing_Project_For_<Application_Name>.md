@@ -65,7 +65,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Tests not in scope: </h5>
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+<li> Automation testing is out of scope </li>
+<li> Compliance regulation testing is beyond the scope </li>
+<li> Portability testing will not be done </li>
+<li> Volume testing will not be done </li>
+
 
 <h4>1.1.5 Risks detected</h4>
 
