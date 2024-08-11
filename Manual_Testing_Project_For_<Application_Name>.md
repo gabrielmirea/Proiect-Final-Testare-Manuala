@@ -78,7 +78,8 @@ The Test Plan is designed to describe all details of testing for the following m
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+<li> Failure to pay by card may result in the user avoiding this site </li>
+<li>  Comparing products from different categories can be confusing </li>
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
