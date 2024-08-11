@@ -23,9 +23,10 @@ The test process was performed based on the standard test process as described b
 
 <h3>1.1 Test planning</h3>
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for the following modules from the www.magazinulapicultorului.ro application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
+
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
@@ -42,9 +43,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <li> Assignment of roles and responsibilities </li> 
 <li> Identification of project risks </li> 
-<li> Establishing deadlines
-Definition of testing objectives
-
+<li> Establishing deadlines </li>
+<li> Definiion of testing objectives</li>
 <h4> 1.1.3 Exit criteria defined </h4>
 
 **(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
