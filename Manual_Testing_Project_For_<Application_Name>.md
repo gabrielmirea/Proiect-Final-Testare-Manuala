@@ -40,9 +40,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-Assignment of roles and responsibilities 
-Identification of project risks
-Establishing deadlines
+<li> Assignment of roles and responsibilities </li> 
+<li> Identification of project risks </li> 
+<li> Establishing deadlines
 Definition of testing objectives
 
 <h4> 1.1.3 Exit criteria defined </h4>
