@@ -120,7 +120,7 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: Magazin apicol
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: (https://github.com/gabrielmirea/Proiect-Final-Testare-Manuala/blob/main/Bugs%20report.doc)
 
 The following is a summary of the bugs that have been found
 **(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
