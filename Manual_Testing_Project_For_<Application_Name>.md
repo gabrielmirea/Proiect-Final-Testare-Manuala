@@ -60,9 +60,11 @@ The Test Plan is designed to describe all details of testing for the following m
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+<li>Log-in user test</li>
+<li>Comparison product test</li>
+<li>links at the bottom of the page test</li>
 
-<h5>Tests not in scope: </h5>
+  <h5>Tests not in scope: </h5>
 
 <li> Automation testing is out of scope </li>
 <li> Compliance regulation testing is beyond the scope </li>
