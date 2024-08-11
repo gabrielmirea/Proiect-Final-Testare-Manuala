@@ -143,7 +143,8 @@ The traceability matrix was generated and can be found here:
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+![image](https://github.com/user-attachments/assets/2fc8de22-d871-4046-88d8-5a16fa34e6aa)
+
 
 The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
 
