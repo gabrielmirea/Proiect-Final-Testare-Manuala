@@ -11,7 +11,7 @@ Tools used: Jira, Zephyr Squad.
 The below stories (GMT-44 Comparare produse, GMT-45 Elemente din partea inferioara a paginii, GMT-62 Conectare utilizator cu e-mail si parola) were created in Jira and describes the functional specifications of these modules, for which the final project is performed upon.
 
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
-
+![image](https://github.com/user-attachments/assets/04bad0bf-9631-42d0-89b3-dbd176920530)
 
 Here you can find the release that was created for this project:
 
