@@ -53,9 +53,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <li> Compliance with deadlines
 <li> Running at least 90% of the tests
-Completion of test documentation 
-Identification and mitigation of product risks
-Completing the documentation of defects and their transmission
+<li> Completion of test documentation 
+<li> Identification and mitigation of product risks
+<li> Completing the documentation of defects and their transmission
 
 <h4> 1.1.4 Test scope</h4>
 
